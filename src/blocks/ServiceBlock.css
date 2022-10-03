@@ -1,0 +1,17 @@
+.ServiceBlock .details{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.ServiceBlock .img{
+    height: 150px;
+    width: 150px;
+    margin-right: 1rem;
+}
+
+.ServiceBlock .description{
+    color: var(--bs-gray-600);
+    margin-bottom: 0px;
+}

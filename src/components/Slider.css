@@ -1,0 +1,16 @@
+.slider {
+    position: relative;
+    width: 500px;
+    height: 350px;
+    margin-right: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+ 
+.slider-img img{
+    width: 500px;
+    height: 350px;
+    transition: all 5s;
+}

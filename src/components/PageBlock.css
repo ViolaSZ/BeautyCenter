@@ -1,0 +1,8 @@
+.PageBlock {
+    display: flex;
+    justify-content: stretch;
+}
+
+.PageBlock > * {
+    flex: 1 0;
+}

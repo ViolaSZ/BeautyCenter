@@ -1,0 +1,21 @@
+.AboutUsBlock .image img {
+    width: 384px;
+    height: 216px;
+    margin-right: 1rem;
+}
+
+.AboutUsBlock {
+    display: flex;
+    height: fit-content;
+}
+
+.AboutUsBlock .body {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0;
+    text-align: left;
+}
+
+.AboutUsBlock .body .text {
+    flex: 1 0;
+}
